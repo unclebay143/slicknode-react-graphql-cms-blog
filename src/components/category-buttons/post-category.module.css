@@ -1,0 +1,29 @@
+
+.categorybuttons{
+    max-width: 550px;
+}
+.categorybutton{
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.categorybutton:nth-child(2){
+    background: #f50057;
+}
+.categorybutton:nth-child(3){
+    background: #ff9800;
+}
+.categorybutton:nth-child(4){
+    background: #ffeb3b;
+}
+.categorybutton:nth-child(5){
+    background: #4caf50;
+}
+.categorybutton:nth-child(6){
+    background: #2196f3
+}
+.categorybutton:nth-child(7){
+    background: #9c27b0;
+}
