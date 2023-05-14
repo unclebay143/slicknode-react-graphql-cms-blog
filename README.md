@@ -1,6 +1,6 @@
 # How to Build a CMS for React and GraphQL Blog with Slicknode 
 
-Read article on Aviyel [here : coming soon (unplublished)](url)
+Read article on Aviyel: [Here](https://aviyel.com/post/3363/how-to-build-a-cms-for-react-and-graphql-blog-with-slicknode)
 
 ## Demo 📺
 
